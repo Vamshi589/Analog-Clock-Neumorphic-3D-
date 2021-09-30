@@ -30,7 +30,7 @@ body{
     top: 50%;
     transform: translate(-50%, -50%);
     border-radius: 50%;
-    background: url(/black.png);
+    background: url('../Images/black.png');
     background-size: cover;
     box-shadow: inset 15px 15px 30px black,
                 inset -15px -15px 30px black;
